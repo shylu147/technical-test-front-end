@@ -1,0 +1,27 @@
+2023-08-15 19:08:276 INFO  HomePage :22 - Welcome to Virgin games Text :[[ChromeDriver: chrome on windows (4c3aded7274e5a82e419378ce1462291)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-15 19:08:908 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-15 20:08:334 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-15 20:08:851 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-15 20:08:966 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-15 21:08:884 INFO  HomePage :25 - Welcome to Virgin games Text :[[ChromeDriver: chrome on windows (6047758de81a95b0ca6216664162707c)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-15 21:08:922 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-16 03:08:761 INFO  HomePage :25 - Welcome to Virgin games Text :[[ChromeDriver: chrome on windows (f6a233d091be57c52ec9ebd10790cca5)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 03:08:654 INFO  CasinoPage :18 - Verify Casino welcome text :Proxy element for: DefaultElementLocator 'By.xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]'
+2023-08-16 03:08:16 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (11dded72a9e04967de4cbad6d94875fc)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 03:08:398 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (ba0e113d30b7a9e05c5bede56d476b73)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 03:08:489 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (1eb5309e4280527098c175a88b530166)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 03:08:522 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (06001a40e389e0afba275e97e6ac9583)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:374 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (4aad2b37fffa88a2d494192323226d94)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:06 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (7c06f4610f767fbb54ccce3aa9f454e7)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:785 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (2e43ce4dd4984f1fa63377b8377833f3)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:101 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (d7579933e6234e5dc01ce56941c85bec)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:497 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (e92cb59ac8feecbd1f63f97aba395e86)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:341 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (10344325fc840f83e997661e470f83c2)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:230 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (d160c6d091c364fe37d95fc54f26de2c)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:184 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (3b5b99405044eb59c81f7ca7c156b92c)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:576 INFO  HomePage :35 - Getting welcome text :[[ChromeDriver: chrome on windows (12442f53754ccb65d4415570bd6dac1f)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-16 04:08:440 INFO  CasinoPage :24 - Getting Casino welcome text :[[ChromeDriver: chrome on windows (1757eac912882ddffe236b2fb755c4f0)] -> css selector: div:nth-child(3) div.sc-aXZVg.hFLOzI div:nth-child(2) section.StyledContent-sc-rrhwky-0.elrwsi:nth-child(5) > h1:nth-child(1)]
+2023-08-18 02:08:314 INFO  HomePage :39 - Getting welcome text :[[ChromeDriver: chrome on windows (34bb0f38c18778e1febdffe62c3e83e6)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-18 09:08:870 INFO  HomePage :39 - Getting welcome text :[[ChromeDriver: chrome on windows (85749a457d9e00f6abd84577771424c2)] -> xpath: //h1[contains(text(),'Welcome to Virgin Games')]]
+2023-08-18 11:08:515 INFO  HomePage :43 - Click on casino Tab :[[ChromeDriver: chrome on windows (023e266eaa212b5d699b316fd9db1b4d)] -> xpath: //a[@title='Casino']]
+2023-08-18 11:08:348 INFO  CasinoPage :24 - Getting Casino welcome text :[[ChromeDriver: chrome on windows (023e266eaa212b5d699b316fd9db1b4d)] -> xpath: //h1[contains(text(),'Play Online Casino Games, with Many Classics to Ch')]]
